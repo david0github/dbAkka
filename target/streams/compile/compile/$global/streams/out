@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/davidnguyen/Desktop/dbAkka/src/main/scala/com/example/QuickstartServer.scala:26:28: not found: value userRoutes[0m
+[0m[[0m[31merror[0m] [0m[0m  lazy val routes: Route = userRoutes[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/davidnguyen/Desktop/dbAkka/src/main/scala/com/example/ScheduleRoutes.scala:57:59: not found: value user[0m
+[0m[[0m[31merror[0m] [0m[0m                  (scheduleRegistryActor ? CreateSchedule(user)).mapTo[ActionPerformed][0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
